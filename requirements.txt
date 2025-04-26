@@ -1,0 +1,5 @@
+alpaca-trade-api
+xgboost
+scikit-learn
+pandas
+numpy
